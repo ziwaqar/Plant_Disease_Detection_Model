@@ -21,6 +21,6 @@ Unlike production-grade systems that use Transfer Learning, this project utilize
 ## Tech Stack
 * **Language:** Python 3.10+
 * **Framework:** PyTorch / Torchvision
-* **Environment:** Google Colab / Kaggle (GPU Accelerated)
+* **Environment:** Local Workstation (NVIDIA RTX 5080, CUDA 12.x)
 * **Tools:** Git/GitHub, Matplotlib (Visualizations), Scikit-Learn (Metrics)
 
