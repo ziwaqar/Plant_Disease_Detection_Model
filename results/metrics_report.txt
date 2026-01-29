@@ -1,0 +1,11 @@
+--- Project Evaluation Metrics ---
+                  precision    recall  f1-score   support
+
+      Apple_Scab       0.98      0.98      0.98       504
+ Apple_Black_rot       0.98      0.99      0.99       497
+Apple_Cedar_rust       0.99      0.99      0.99       440
+   Apple_Healthy       0.99      0.99      0.99       502
+
+        accuracy                           0.99      1943
+       macro avg       0.99      0.99      0.99      1943
+    weighted avg       0.99      0.99      0.99      1943
