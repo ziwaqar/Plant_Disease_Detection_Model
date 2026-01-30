@@ -61,20 +61,3 @@ The model achieved significantly higher results than the required 75% baseline.
 ## 9. Conclusion & Future Work
 This project successfully proves the feasibility of using custom CNNs for agricultural monitoring. Future improvements include implementing **Vision Transformers (ViT)** to compare spatial attention against standard convolutions.
 
-## 10. References (2024-2025)
-
-### Academic Publications (2024–2025)
-
-1. **M. Hossain et al.**, "A review of plant leaf disease identification by deep learning algorithms," *Frontiers in Plant Science*, vol. 16, pp. 102–115, Jan. 2025.
-2. **M. S. Al-Gaashani et al.**, "Enhancing plant disease detection through deep learning: a Depthwise CNN with squeeze and excitation," *Frontiers in Plant Science*, vol. 16, Art. no. 14567, Feb. 2025.
-3. **MDPI**, "Plant Leaf Disease Detection Using Deep Learning: A Multi-Dataset Approach," *Journal of Imaging*, vol. 11, no. 1, pp. 45–58, Jan. 2025.
-4. **ResearchGate**, "Plant Disease Detection Using Deep Learning Techniques," *ICCK Journal of Image Analysis*, vol. 9, no. 2, pp. 210–225, Jan. 2025.
-5. **A. Chinnu et al.**, "Impact of Climate Change on Pathogen Reproduction in Agricultural Models," *International Journal of Agronomy*, vol. 2024, Art. no. 889021, May 2024.
-6. **N. Roeswitawati et al.**, "Market Value Analysis of Automated Disease Detection in Smart Farming," *Agribusiness Review*, vol. 32, no. 3, pp. 15–29, Aug. 2024.
-7. **L. Rose and X. Rui**, "Abstract Feature Learning in Deep Neural Networks for Botany," *AI in Agriculture Quarterly*, vol. 12, no. 4, pp. 301–315, Nov. 2024.
-8. **S. Vishnoi et al.**, "Comparison of Traditional vs AI-based Image Processing for Crop Yield," *Journal of Agricultural Engineering*, vol. 58, no. 1, pp. 88–94, Jan. 2024.
-
-### Industry Reports & Online Resources
-
-9. **Farmonaut**, "Agriculture and Artificial Intelligence: 2025 AI Farming Trends," *Farmonaut Tech Blog*, Jan. 2025. [Online]. Available: [https://farmonaut.com/blog](https://farmonaut.com/blog)
-10. **ICL Group**, "Rise of AI in Agriculture: Carbon Utilization and Remote Sensing," *Sustainability Reports 2025*, Mar. 2025.
