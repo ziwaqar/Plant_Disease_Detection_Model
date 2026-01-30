@@ -31,8 +31,8 @@ def run_prediction():
         transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
     ])
 
-    # 4. Find an image to test (Automatic path finder)
-    # This looks for any .JPG or .png in your test folder
+    # 4.image to test 
+   
     test_base_path = 'data/test'
     test_img = "AppleScab1.JPG"
     
