@@ -62,7 +62,7 @@ def generate_research_plots():
     plt.figure(figsize=(8, 6))
     cm_normalized = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
     class_acc = cm_normalized.diagonal() * 100
-    sns.barplot(x=classes, y=class_acc, palette='viridis')
+    sns.barplot(x=classes, y=class_acc, hue=classes, palette='viridis', legend=False)
     plt.title('Individual Class Accuracy (%)')
     plt.ylabel('Accuracy Percentage')
     plt.ylim(0, 110)
