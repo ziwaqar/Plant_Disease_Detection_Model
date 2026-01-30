@@ -31,7 +31,7 @@ def get_loaders(train_dir, val_dir, batch_size=32):
     train_subset = Subset(full_train_ds, get_indices(full_train_ds))
     val_subset = Subset(full_val_ds, get_indices(full_val_ds))
 
-    train_loader = DataLoader(train_subset, batch_size=batch_size, shuffle=True, num_workers=4, pin_memory=True)
-    val_loader = DataLoader(val_subset, batch_size=batch_size, shuffle=False, num_workers=4, pin_memory=True)
+    train_loader = DataLoader(train_subset, batch_size=batch_size, shuffle=True, num_workers=0, pin_memory=True)
+    val_loader = DataLoader(val_subset, batch_size=batch_size, shuffle=False, num_workers=0, pin_memory=True)
 
     return train_loader, val_loader, len(target_classes)
