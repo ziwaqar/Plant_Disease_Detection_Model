@@ -107,7 +107,7 @@ These augmentations improve generalization and prevent orientation memorization.
 The system utilizes **PlantNet**, a custom 3-stage Convolutional Neural Network.
 ## Model Architecture Diagram
 
-![PlantNet Model Architecture](assets/plantnet_architecture.png)
+![PlantNet Model Architecture](assets/model_architecture.png)
 
 | Layer Type | Configuration | Output Shape | Purpose |
 |-----------|---------------|--------------|---------|
